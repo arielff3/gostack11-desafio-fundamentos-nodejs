@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src=".github/readmeLogo.png" alt="GoStack">
+  <img src="https://github.com/arielff3/gostack11-desafio-conceitos-nodejs/raw/master/.github/readmeLogo.png" alt="GoStack">
 </h1>
 
 <h2 align="center">Desafio 05: Fundamentos Node.js</h2>
